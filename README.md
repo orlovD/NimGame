@@ -1,4 +1,4 @@
-# Nim Interactive Network Game
+# Nim Game
 Technologies Used:
 * C, Socket Programming, Blocking and Non-Blocking I/O, Linux
 
